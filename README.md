@@ -1,26 +1,10 @@
 # Question-Answer-Website
 
+Welcome to our Question and Answer platform, an interactive web application designed for knowledge sharing and learning. Developed using PHP, HTML, CSS, SQL, and JavaScript, the platform offers a seamless experience, hosted on MAMP for PHP and phpMyAdmin for SQL.
 
-Welcome to our Question and Answer platform, a versatile and interactive web application designed to facilitate knowledge sharing and learning within a dynamic community. Built using PHP, HTML, CSS, SQL, and JavaScript, our application provides a robust and seamless user experience. It has been hosted using MAMP for PHP and phpMyAdmin for SQL, which ensures smooth performance and database management.
+Our platform provides a user-friendly interface with intuitive features, allowing users to register, log in, search, browse topics, manage their profile, and contribute to the community by asking questions and providing answers. Automatic user status updates and an event scheduler ensure an engaging and dynamic experience.
 
-Our platform has been meticulously designed and constructed to provide a structured and organized system for users to ask questions, receive answers, and engage with the community. We have incorporated a range of features, including registration, login, search, topics, and user profiles. Additionally, the application includes an event scheduler and an automated system for updating user statuses based on their contributions and expertise.
-
-The ER Diagram, Relational Schema, and assumptions made during the design process have been documented for reference, and we have provided Create Table Statements and SQL Queries to manage the database effectively. Furthermore, we have populated the tables to ensure a rich and diverse knowledge base is available for users to explore.
-
-Some of the key features of our platform include:
-
-Registration and Login: Users can quickly sign up and log in to access the platform's functionalities.
-Main Page: A user-friendly interface that displays recent questions and popular topics.
-Search: Users can search for questions or topics to find relevant information.
-Topics: Users can browse and select from a list of parent topics and subtopics to find questions and answers related to their interests.
-User Profile: Users can view and edit their profile, track their status, and view their contributions.
-Updating User Status: A procedure runs regularly to update the status and score of users based on their contributions to the platform.
-Event Scheduler: Automatically updates and manages events within the platform.
-Signout: Users can securely log out of the platform.
-Post a Question: Users can ask questions and associate them with relevant topics.
-View Selected Question: Users can view a selected question, its answers, and interact with the content by selecting the best answer or giving a thumbs up.
-
-We believe our Question and Answer platform offers a comprehensive and engaging experience for users, making it an invaluable resource for knowledge sharing and learning. We invite you to explore the platform and enjoy its features!
+Explore our platform to experience its diverse features!
 
 ## Relational Schema
 
